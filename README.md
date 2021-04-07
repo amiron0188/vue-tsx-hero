@@ -1,5 +1,5 @@
 # vue-tsx-hero
-一个vue3 + tsx 的简单入门例子,学习流程参考![Umi入门](https://github.com/umijs/umi-course/blob/master/doc/07.md)
+一个vue3 + tsx 的简单入门例子,学习流程参考![Umi入门](https://github.com/umijs/umi-course)
 
 ## 项目参考
 - ![vue3-admin](https://github.com/zhoubangfu/vue3-admin)
